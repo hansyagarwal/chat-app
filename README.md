@@ -9,3 +9,5 @@ Chat-app using nodejs
 ->timestamps,css,rooms
 
 ->store and track users,render user list,autoscroll
+
+->deployment complete, check app at https://comstation.herokuapp.com/
